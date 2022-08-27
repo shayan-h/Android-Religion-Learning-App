@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505666972438",
+    "project_id": "learnislam-83593",
+    "storage_bucket": "learnislam-83593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505666972438:android:6a42012a62f807b8dbbe37",
+        "android_client_info": {
+          "package_name": "com.example.learnislam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505666972438-8jij99hh4j4pmuifk9ktp8boaesvemk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GV5rdyDUE2R_8baVAyIqh4rUR3t6BMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505666972438-8jij99hh4j4pmuifk9ktp8boaesvemk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
